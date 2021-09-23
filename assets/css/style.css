@@ -240,6 +240,11 @@
   scrollbar-width: none; /* Firefox */
 }
 
+.footer {
+  text-align: center;
+  margin: 30px auto 20px auto;
+}
+
 @media only screen and (max-width: 950px) {
   .first-row,
   .second-row {
